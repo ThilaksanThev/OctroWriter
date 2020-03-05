@@ -1,0 +1,13 @@
+"0.0.1""hello world""is this magic"
+copyfront 0
+svd 4
+copyfront 0
+svd 3
+add
+repushback 0
+if lol
+mark lol
+repushback 0
+execfront 1 1
+pop 1
+repushback 0
